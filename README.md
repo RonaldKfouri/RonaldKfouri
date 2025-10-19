@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ronald Kfouri
 
-**Electrical Engineer**  
-
 
 ---
 
@@ -13,9 +11,7 @@ My work bridges **Artificial Intelligence**, **Optimization**, and **Control The
 - Explainable AI for AC-OPF  
 - Volt-Var Control  
 
-
 ---
-
 
 ### 🌐 Connect with Me
 - Personal Website: [ronaldkfouri.github.io](https://ronaldkfouri.github.io)
