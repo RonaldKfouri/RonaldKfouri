@@ -25,11 +25,4 @@ My work bridges **Artificial Intelligence**, **Optimization**, and **Control The
 
 ---
 
-
-### 📚 Education
-- **M.S.** in Computer Engineering — Lebanese American University  
-- **B.E.** in Electrical Engineering — Lebanese American University  
-
----
-
 > _For full publications, teaching, and project portfolio, visit [ronaldkfouri.github.io](https://ronaldkfouri.github.io)._
