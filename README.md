@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ronald Kfouri
 
-
 ---
 
 ### 🧠 About Me
