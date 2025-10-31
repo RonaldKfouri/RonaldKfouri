@@ -5,10 +5,10 @@
 ### 🧠 About Me
 I am an Electrical Engineer focusing on advanced methods for **Power Systems** and **Smart Grids**.  
 My work bridges **Artificial Intelligence**, **Optimization**, and **Control Theory**, with applications in areas such as:
-- Power System State Estimation  
-- Deep Learning & Graph Neural Networks  
-- Explainable AI for AC-OPF  
-- Volt-Var Control  
+- Power System State Estimation, AC Optimal Power Flow, Unit Commitment, and other power system problems  
+- Artificial Intelligence and its applications in power systems  
+- Safe & Explainable AI  
+- Power System Cybersecurity and Stability (voltage control, frequency stabilization, etc.)  
 
 ---
 
